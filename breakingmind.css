@@ -1,0 +1,19 @@
+.container{
+    width: 300px;
+    height: 300px;
+    border-style: solid ;
+    position: fixed;
+    top: 200px;
+    left: 40%;
+    
+}
+
+#cauhoi{
+    width: 300px;
+    height: 200px;
+    border-style: solid;
+}
+
+.dapan{
+    background-color: aquamarine;
+}
